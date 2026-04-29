@@ -24,15 +24,5 @@ On a implémenté une structure `Point` avec plusieurs fonctions :
 - Pile → push/pop
 - File → enqueue/dequeue
 
-### TD4 : Arbres binaires
-- Insertion dans ABR
-- Recherche
-- Parcours infixe
-- Tri via ABR
-
-### Difficultés rencontrées
-- Gestion de mémoire (malloc/free)
-- Compréhension de la récursivité
-
 ### Conclusion
 Ce projet a permis de mieux comprendre les structures de données et leur complexité.
